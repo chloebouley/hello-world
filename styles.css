@@ -1,17 +1,62 @@
-* {
-  margin:0px;
-  padding:0px;
+a
+{
+	color: black;
 }
 
-#octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+header {
+  width: 100%;
 }
 
-p {
+ul {
+  list-style: none;
+}
+
+
+#Gmail
+{
+	position:right;
+}
+
+google #Logo-de-Google 
+{
+  text-align: center;
   display: block;
-  width: 400px;
-  margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 112px;
+  padding-bottom: 20px;
+}
+
+#nav_bar 
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#buttons 
+{
+  text-align: center;
+  padding-top: 30px;
+  margin-bottom: 300px;
+ }
+
+#France 
+{
+  text-align: left;
+}
+
+#footer-left
+{
+	position: left;
+}
+
+#footer-right
+{
+	position: right;
 }
